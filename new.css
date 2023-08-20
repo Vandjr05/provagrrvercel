@@ -1,0 +1,120 @@
+.center {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+    
+
+    justify-content: center;
+}
+
+
+.quadro {
+    position: relative;
+    float: left;
+    width: 32%;
+}
+
+.quadro button {
+    border: 0;
+    background-color: #000000;
+    color: #fff;
+    padding: 6px 30px;
+    margin-bottom: 15px;
+    border-bottom: 3px rgb(226, 135, 44) solid;
+}
+
+
+
+body {
+font-size: 14px;
+font-family: tahoma;
+color: #666;
+cursor: default;
+vertical-align: baseline;
+outline: 0;
+line-height: 1;
+margin: 0;
+padding: 0;
+word-wrap: break-word;
+		}
+
+        div,
+		span,
+		applet,
+		object,
+		iframe,
+		p,
+		blockquote,
+		pre,
+		a,
+		abbr,
+		acronym,
+		address,
+		big,
+		cite,
+		code,
+		del,
+		dfn,
+		em,
+		font,
+		img,
+		ins,
+		kbd,
+		q,
+		s,
+		samp,
+		small,
+		strike,
+		strong,
+		sub,
+		sup,
+		tt,
+		var,
+		b,
+		u,
+		i,
+		center,
+		dl,
+		dt,
+		dd,
+		ol,
+		ul,
+		li,
+		fieldset,
+		form,
+		label,
+		legend,
+		table,
+		caption,
+		tbody,
+		tfoot,
+		thead,
+		tr {
+			border: 0;
+			outline: 0;
+			font-size: 100%;
+			vertical-align: baseline;
+			background: transparent;
+			margin: 0;
+			padding: 0;
+		}
+
+    img {
+
+        margin-right: 10px;
+    }
+
+        body {
+            background-image: url(https://cdn.discordapp.com/attachments/1142132328861278288/1142677185690337372/grr-logo.png);
+            background-repeat: no-repeat;
+            background-position: center ;
+            background-size: 15%;
+            background-color: rgb(250, 246, 246);
+            background-position-y: 350px;
+            
+        
+        }
+
+       
